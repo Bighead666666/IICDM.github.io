@@ -18,8 +18,8 @@ newsLinks.forEach(link => {
 
 // 示例：研究成果的文档列表
 const documents = [
-    { title: "研究报告1：《柳叶刀-西太平洋》期刊发表中国版门急诊服务敏感疾病目录", url: "https://doi.org/10.1016/j.lanwpc.2025.101734" },
-    { title: "研究成果2：《四川大学学报（医学版）》期刊发表四川省德阳市罗江区医防融合创新实践分析", url: "https://kns.cnki.net/kcms2/article/abstract?v=K6QWI_fIKJGir1Cf616maST8yv5y8ga_CbAan4CxzRyrZIwI226P_Q8PgIjQ0693acveMf43okkkfLj0kY-uWqnXoS5Vg-MCSyCLrNxtPq5oCtHQQn9ofytmPIC5pfI-OlPbLlxtzoE5yKq35UQkc6XBdjqaf6Hl1S5ouRA8VYY=&uniplatform=NZKPT" }
+    { title: "研究报告1：《柳叶刀-西太平洋》期刊发表中国版门急诊服务敏感疾病目录", url: "https://mp.weixin.qq.com/s/-RhQ7OUv2TKwkpLKOrL3fA" },
+    { title: "研究成果2：《四川大学学报（医学版）》期刊发表四川省德阳市罗江区医防融合创新实践分析", url: "https://mp.weixin.qq.com/s/umA2DdQ79LStldjVmP3-cg" }
 ];
 
 // 动态填充研究成果文档
